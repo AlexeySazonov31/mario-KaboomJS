@@ -1,6 +1,9 @@
 {
   "name": "mario",
   "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.18.1"
   }
