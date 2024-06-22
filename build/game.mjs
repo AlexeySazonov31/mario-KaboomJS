@@ -1,3 +1,5 @@
+import kaboom from "./kaboom/dist/kaboom.mjs"
+
 kaboom({
   global: true,
   fullscreen: true,
