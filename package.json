@@ -1,6 +1,7 @@
 {
   "name": "mario",
   "license": "MIT",
+  "type": "commonjs",
   "scripts": {
     "dev": "node index.js",
     "start": "node index.js"
