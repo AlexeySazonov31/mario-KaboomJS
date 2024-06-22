@@ -1,12 +1,11 @@
 {
   "name": "mario",
-  "type": "module",
   "license": "MIT",
   "scripts": {
     "dev": "node index.js",
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "4.17.1"
   }
 }
